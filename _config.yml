@@ -279,6 +279,11 @@ news:
 publications:
   - year: 2026
     list:
+    - title: "Overloading Ad Blockers: Exploiting Filtering Logic for Selective Denial of Service"
+      authors: Hyunjoon Lee, Suyoung Lee (co-leading author), Heiko Kiesel, and Sooel Son
+      published: false
+      toptier_security: true
+      booktitle: "33th ACM Conference on Computer and Communications Security (CCS 2026)"
     - title: "Site Isolation is Dead: How Site Isolation is Broken in Agentic Browsers and Extensions"
       authors: Suyoung Lee, Seongho Keum, Changoo Lee, Dongwon Shin, Sanghyun Hong, Byoungyoung Lee, and Sooel Son
       published: false
