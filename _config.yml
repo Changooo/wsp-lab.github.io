@@ -227,6 +227,8 @@ people_alumni:
 
 news:
   list:
+  - date: Apr, 2026
+    comments: A paper accepted in <strong>CCS'26</strong>!
   - date: Mar, 2026
     comments: A paper accepted in <strong>S&P'26</strong>!
   - date: Jan, 2026
